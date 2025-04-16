@@ -56,7 +56,7 @@ Whether real or symbolic, ecological or ancestral—your offering is welcome.
 
 This archive is curated with care by Dominic Salvatore Conover.  
 To propose collaborations, translations, or accessibility features:  
-**Open an Issue** or email [contact info placeholder].
+**Open an Issue**.
 
 > “Some zones are mapped by satellites. Others by the soul.”  
 > — Essence Manifesto
