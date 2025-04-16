@@ -41,7 +41,7 @@ Zones that exist in **dreams, metaphors, rituals, or collective memory.**
 ### 3. **Access-Mode Contributions**
 You may contribute in **sign language**, visual art, braille, poetry, audio, or tactile formats.
 
-**If you're unsure how to upload it, open an Issue or email us.**  
+**If you're unsure how to upload it, open an Issue.**  
 We will do everything we can to translate, caption, or describe your work respectfully.
 
 ---
@@ -51,5 +51,3 @@ We will do everything we can to translate, caption, or describe your work respec
 - Fork this repository
 - Add your zone to the file: `Regenerative_Guardian_Zones.md`
 - Submit a pull request
-
-**Suggested commit message:**
